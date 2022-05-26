@@ -6,7 +6,7 @@ Contributions:
 
 Izaaz- Majority of FE functions for Home.js and Timecard.js
 
-Micheal - Reasearch, and FE functions for Account.js
+Micheal - Reasearch, and some FE functions for Account.js
 
 James - All CSS for FE, and Smart contract code in Solidity
 
