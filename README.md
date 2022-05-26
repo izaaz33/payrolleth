@@ -1,8 +1,8 @@
-A group project made for Capstone at UAlbany, 2022
+A Capstone group project made at UAlbany, Spring 2022
 
 Members: Izaaz Izzadeen, Micheal Annese, James Austin, Gordon Fung
 
-Contributions:
+Code Contributions:
 
 Izaaz- Majority of FE functions for Home.js and Timecard.js
 
